@@ -1,0 +1,39 @@
+
+		Railroad Tycoon 2: English version 1.54c
+		(http://www.lokigames.com/products/rt2/)
+
+========================================
+
+ABOUT
+====
+
+	This is an updated installer for the Loki version of Railroad
+	Tycoon 2.
+	It contains the most recent patch and some workarounds to
+        get this game working with current Linux distributions.
+
+SYSTEM REQUIREMENTS
+==============
+
+	- The Loki Railroad Tycoon 2 disc
+
+RUNNING THE GAME
+============
+
+	Run "rt2.sh" or "rt2.dynamic.sh" to play
+
+NOTES
+====
+
+	- to set up a  multiplayer-game, set ~/.loki/rt2/userprofile.txt
+	  to the correct IP of your computer
+
+	- inofficial German translation provided by the MLLG project
+
+TECHNICAL SUPPORT
+=============
+
+	Website: http://liflg.org/
+	Forum:   http://liflg.org/forum/
+
+The Linux Installers for Linux Gamers Team
